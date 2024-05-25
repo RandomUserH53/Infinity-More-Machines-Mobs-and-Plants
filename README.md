@@ -2,4 +2,4 @@ This Repository is an edited version of the Slimefun Infinity Expansion package 
 
 This is Open Source and available for all to edit according to the License.
 
-Creidt to:"https://github.com/Mooy1/InfinityExpansion"
+Credit to:"https://github.com/Mooy1/InfinityExpansion"
